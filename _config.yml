@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: Matthew N. George, Ph.D.
+title: S. Grace Leuchtenberger
 
 # Your name to show in the footer
-author: Matthew N. George, Ph.D.
+author: S.G. Leuchtenberger
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "https://mattgeorgephd.github.io/CV_2022.pdf"
+  CV: 
   About: "aboutme"
   Lab Notebook: "notebook"
   Publications: "publications"
@@ -40,10 +40,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mngeorge@uw.edu"
-  ORCID: 0000-0003-1264-8667
-  github: mattgeorgephd
-  linkedin: matt-george-65a4b94b
+  email: "sgleuch@uw.edu"
+  ORCID: 
+  github: graceleuchtenberger
+  linkedin: 
 
 #  reddit: yourname
 #  linkedin: matt-george-65a4b94b
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://mattgeorgephd.github.io"
+url-pretty: "http://graceleuchtenberger.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
