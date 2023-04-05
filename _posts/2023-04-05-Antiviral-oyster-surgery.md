@@ -12,6 +12,7 @@ comments: true
 
 2. Took whole body oyster samples for oysters that were emersed in Poly-IC solution, oysters injected with Poly-IC, and oysters that just sat in the MgCl solution (triploids and diploids).
 
+
 #Things I messed up (classic)
 
-I mislabeled one of the triploid MgCl controls as an injected triploid. A loss. F. 
+I mislabeled one of the triploid MgCl controls as an injected triploid. A loss. F.
