@@ -12,7 +12,7 @@ comments: true
 
 2. Got a ton more RNA from redoing the second part, but contamination was bad. See results below.
 
-| ID | RNA conc (ng:uL) | 260:280 | 260:230 |
+| ID | RNA conc (ng/uL) | 260/280 | 260/230 |
 |---|---|---|---|
 | D4 | 878 | 1.98 | 1.73 |
 | D9 | 950 | 1.91 | 1.62 |
