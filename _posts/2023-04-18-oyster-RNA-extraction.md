@@ -12,7 +12,7 @@ comments: true
 
 2. Got a ton more RNA from redoing the second part, but contamination was bad. See results below.
 
-| ID | RNA conc (ng/uL) | 260/280  | 260/230  |
+| ID | RNA conc (ng/uL) | 260/280 | 260/230 |
 |---|---|---|---|
 | D4 | 878 | 1.98 | 1.73 |
 | D9 | 950 | 1.91 | 1.62 |
@@ -23,4 +23,4 @@ comments: true
 
 1. Need to be more careful with oysters during initial tissue collection and homogenization. Could have definitely introduced some stuff there.
 
-2. Having talked to some molecular bio people in my cohort, the wash step we did may have not been enough/the wash step can bring in contamination somehow? 
+2. Having talked to some molecular bio people in my cohort, the wash step we did may have not been enough/the wash step can bring in contamination somehow?
