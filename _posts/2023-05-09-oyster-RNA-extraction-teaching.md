@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oyster RNA extraction: teaching Henry and Eric
+title: Teaching Henry and Eric RNA extraction
 subtitle:
 tags:
 comments: true
@@ -24,7 +24,7 @@ comments: true
 
 ## What we did on 5/9
 
-1. Got the QC values for the extraction above, also had Henry and Eric harvest the tissue from the oysters that got to recover for a month. 
+1. Got the QC values for the extraction above, also had Henry and Eric harvest the tissue from the oysters that got to recover for a month.
 
 # Points of reflection
 
