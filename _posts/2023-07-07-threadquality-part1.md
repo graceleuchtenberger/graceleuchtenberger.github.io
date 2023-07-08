@@ -14,6 +14,6 @@ I'm planning to put mussels under flow and assess differences in thread quality 
 
 
 # What I did today
-Because Californianus lays threads that are easier to work with, I put three Californianus on three lego platforms in a seawater flowthrough tray just to see if they'd lay threads within the small box I put them on, or if they'd reach outside of them.
+Because Californianus lays threads that are easier to work with, I put three Californianus on lego platforms in a seawater flowthrough tray just to see if they'd lay threads within the small box I put them on, or if they'd reach outside of them.
 
 I'll check on them tomorrow and see if they laid threads.
