@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=0-bSbYUAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -19,6 +19,8 @@ title: Publications
 ## *Publications*
 
 **Leuchtenberger SG**, Daleo M, Gullickson P, Delgado A, Lo C, Nishizaki MT. (2022) The effects of temperature and pH on the reproductive ecology of sand dollars and sea urchins: Impacts on sperm swimming and fertilization. PLoS ONE 17(12): e0276134. https://doi.org/10.1371/journal.pone.0276134.
+
+---
 
 ## *Datasets*
 
