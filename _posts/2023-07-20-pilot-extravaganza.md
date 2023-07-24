@@ -14,7 +14,7 @@ I put three mussels in the big tank outside of the gear locker (lab 7), half way
 
 ![](/post_images/20230720/Thread-quality-2.jpg)
 
-The black circle is the tank drain, the box next to it is the top pump, and the mussels are experiencing different levels of flow, denoted by different length arrows. 
+The black circle is the tank drain, the box next to it is the top pump, and the mussels are experiencing different levels of flow, denoted by different length arrows.
 
 ## Injection again
 
