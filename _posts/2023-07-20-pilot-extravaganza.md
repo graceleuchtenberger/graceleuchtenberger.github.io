@@ -2,7 +2,7 @@
 layout: post
 title: Pilot experiment extravaganza,
 subtitle:
-tags: Foot-Knockdown, Thread-quality
+tags: Foot-Knockdown Thread-quality
 comments: true
 ---
 
