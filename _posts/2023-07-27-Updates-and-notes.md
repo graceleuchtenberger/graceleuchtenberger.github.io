@@ -2,7 +2,7 @@
 layout: post
 title: Updates and notes
 subtitle:
-tags: Ramping-pilot, Thread-quality, Foot-Knockdown
+tags: Ramping-pilot Thread-quality Foot-Knockdown
 comments: true
 ---
 
