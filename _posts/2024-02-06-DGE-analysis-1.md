@@ -12,42 +12,42 @@ I ran PCA's and got significant DEG lists for every pairwise comparison between 
 
 ### Overall
 
-![](/post_images/20240206/F_overall)
+![](/post_images/20240206/F_overall.jpeg)
 
 ### Ocean acidification
 
-![](/post_images/20240206/F_OA)
+![](/post_images/20240206/F_OA.jpeg)
 
 ### Ocean warming
 
-![](/post_images/20240206/F_OW)
+![](/post_images/20240206/F_OW.jpeg)
 
 ### Hypoxia
 
-![](/post_images/20240206/F_DO)
+![](/post_images/20240206/F_DO.jpeg)
 
 ### Control day 0 versus Control day 3
 
-![](/post_images/20240206/Con0_Con3)
+![](/post_images/20240206/Con0_Con3.jpeg)
 
 ## Gill PCA Plots
 
 ### Overall
 
-![](/post_images/20240206/G_overall)
+![](/post_images/20240206/G_overall.jpeg)
 
 ### Ocean acidification
 
-![](/post_images/20240206/G_OA)
+![](/post_images/20240206/G_OA.jpeg)
 
 ### Ocean warming
 
-![](/post_images/20240206/G_OW)
+![](/post_images/20240206/G_OW.jpeg)
 
-### Hypoxia 
+### Hypoxia
 
-![](/post_images/20240206/G_DO)
+![](/post_images/20240206/G_DO.jpeg)
 
 ### Control day 0 versus Control day 3
 
-![](/post_images/20240206/GCon0_Con3)
+![](/post_images/20240206/GCon0_Con3.jpeg)
