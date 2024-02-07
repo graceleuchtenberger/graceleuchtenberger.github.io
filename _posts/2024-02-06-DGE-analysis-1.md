@@ -34,7 +34,7 @@ I ran PCA's and got significant DEG lists for every pairwise comparison between 
 
 ### Overall
 
-![](/post_images/20240206/G_overall.jpeg)
+![](/post_images/20240206/G_Overall.jpeg)
 
 ### Ocean acidification
 
