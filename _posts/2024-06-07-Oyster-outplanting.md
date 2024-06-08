@@ -17,7 +17,7 @@ We outplanted seed from 2023 that was hardened daily (effort B) and weekly (effo
 
 5 treatment/control (T/C) pairs from effort B were laid out with 50 animals a bag. 11 treatment/control pairs from effort D were laid out with 100 animals a bag. Effort B and effort D had different size classes (see link to Ariana's diagram above). 2-bag spots were assigned a number. The second row was randomly selected to have 3 bags from effort B, while the first row would have 2 bags, that way location could be controlled for across replicates. Effort B T/C pairs were randomly assigned to first row and second row spots. The rest of the spots were filled in by effort D pairs. <br>
 
-![](/post_images/20230607/Westcott_layout_graphic_672024.jpg)
+![](/post_images/20240607/Westcott_layout_graphic_672024.jpg)
 
 ### Future efforts
 
