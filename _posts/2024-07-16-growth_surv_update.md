@@ -16,11 +16,11 @@ Here are some [growth](https://github.com/RobertsLab/project-gigas-conditioning/
 
 ### Average growth effort B
 
-![](/post_images/20240716/effortB_growth.PNG)
+![](/post_images/20240716/effortB_growth.jpg)
 
 ### Average growth effort D
 
-![](/post_images/20240716/effortD_growth.PNG)
+![](/post_images/20240716/effortD_growth.jpg)
 
 Looks like growth is similar between treatments for both efforts so far. Doesn't seem to be a huge difference in the rate of change of height and width in comparison to length, at least for this first set of measurements. This graph doesn't have standard error bars, but I did another graph with them and the standard errors were so small you couldn't see the bars (they weren't bigger than the points themselves), so I just opted to include this original graph.
 
@@ -28,17 +28,17 @@ Looks like growth is similar between treatments for both efforts so far. Doesn't
 
 ### Mean live oysters per treatment
 
-![](/post_images/20240716/meanslive)
+![](/post_images/20240716/meanslive.jpg)
 
 In tipping the bags out to do some labeling when we first outplanted the oysters, I lost some oysters out of one of the weekly control bags (effort D), which you can see in the "live oysters per bag effort D" graph (larger standard error and lower mean). There wasn't a huge death, I just fumbled the bag (literally).
 
 ### Live oysters per bag effort B
 
-![](/post_images/20240716/meanlive_B)
+![](/post_images/20240716/meanlive_B.jpg)
 
 ### Live oysters per bag effort D
 
-![](/post_images/20240716/meanlive_D)
+![](/post_images/20240716/meanlive_D.jpg)
 
 Because of losing a bunch of the oysters in one of the bags, we are now much more careful about tipping out the bags and in closing them back up (using more zipties, closing them more tightly, being more strategic about ziptie location).
 
@@ -46,13 +46,13 @@ Other than that though, live oyster numbers seem to be pretty static. Next seaso
 
 ### Cumulative dead oysters effort B
 
-![](/post_images/20240716/cumdead_B)
+![](/post_images/20240716/cumdead_B.jpg)
 
 More "daily" conditioning bags have lost an oyster than "control" bags thus far, but it's early in the season.
 
 ### Cumulative dead oysters effort D
 
-![](/post_images/20240716/cumdead_D)
+![](/post_images/20240716/cumdead_D.jpg)
 
 I tried jittering the points horizontally to no avail, so this is the best we have. In effort D, there are about the same number of control and weekly conditioning bags that have lost an oyster, just from looking at the raw data (can share if needed, can also access by using my code.)
 
