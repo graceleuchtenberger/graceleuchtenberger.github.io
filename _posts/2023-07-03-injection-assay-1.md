@@ -46,4 +46,4 @@ I also pulled the threads from the mussels, which in retrospect was probably a b
 
 - Smaller gauge needle
 - Buy my own MgCl
-- Look at injections in other bivalves, or how it was introduced. Getting it into the hemolymph seems to be the key. 
+- Look at injections in other bivalves, or how it was introduced. Getting it into the hemolymph seems to be the key.
